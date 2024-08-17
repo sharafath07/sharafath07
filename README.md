@@ -20,11 +20,11 @@
 
 <br />
 
-<!--## <img src="./assets/badge.gif" width="35"/> Badges
+## <img src="./assets/badge.gif" width="35"/> Badges
 
-[![An image of @sharafath07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sharafath07)](https://holopin.io/@sharafath07)-->
+[![An image of @sharafath07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sharafath07)](https://holopin.io/@sharafath07)
 
-## <img src="./assets/spinning-globe-animated.gif" width="35"/> Socials
+<!--## <img src="./assets/spinning-globe-animated.gif" width="35"/> Socials
 
 <p >
   <a href="https://twitter.com/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
@@ -32,17 +32,18 @@
   <a href="https://www.instagram.com/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
-<br>
+<br>-->
 
 ## 📫 Get in Touch
 
-- **[Email](mailto:shamilzamil007@gmail.com):** shamilzamil007@gmail,com
-- **[LinkedIn](https://www.linkedin.com/in/muhammed-shamil-65878227a/):** muhammed shamil
-- **[Telegram](https://t.me/zamil_007):** @zamil_007
+- **[Email](mailto:sharafathahammed112@gmail.com):** sharafathahammed112@gmail,com
+- **[LinkedIn](https://www.linkedin.com):** Sharafath Ahammed V
+- **[Telegram]():** @
+- **[Instagram](https://www.instagram.com/sh__ara__fath/):** @sh_ara_fath
 
 <br>
 
-## <img src="./assets/Rocket.png" width="35"/> Languages and Tools
+## <!--<img src="./assets/Rocket.png" width="35"/>--> Languages and Tools
 
 <p > 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -70,28 +71,28 @@
 ## <img src="./assets/graph-animation.gif" width="35"/> GitHub Stats
 
 <p >
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammedshamil8&theme=dark&hide_border=true&include_all_commits=false&count_private=true"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedshamil8&theme=dark&hide_border=true"><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhammedshamil8&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sharafath07&theme=dark&hide_border=true&include_all_commits=false&count_private=true"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharafath07&theme=dark&hide_border=true"><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sharafath07&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact">
 </p>
 
 ## <img src="./assets/trophies.gif" width="35"/> GitHub Trophies
 
 <p >
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammedshamil8&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=sharafath07&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4">
 </p>
 
 ---
 
 <br>
 
-## <img src="./assets/Writing%20Hand%20Light%20Skin%20Tone.png" width="35"/> Random Dev Quote
+## <!--<img src="./assets/Writing%20Hand%20Light%20Skin%20Tone.png" width="35"/>--> Random Dev Quote
 
 >![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## <img src="./assets/Face%20with%20Tears%20of%20Joy.png" width="35"/>  Dev Meme
+## <!--<img src="./assets/Face%20with%20Tears%20of%20Joy.png" width="35"/>-->  Dev Meme
 
-<p align="center"><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Coding Gif"/></p>
+<!--<p align="center"><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Coding Gif"/></p>-->
 
 <br />
 
@@ -99,11 +100,14 @@
 
 <br>
 
-## Loved this work? <img src="./assets/Heart%20on%20Fire.png" width="30">
+## Loved this work? <!--<img src="./assets/Heart%20on%20Fire.png" width="30">-->
 
-  <img src="assets/Star.png" width="25"/> [Give a star to this project](https://github.com/muhammedshamil8/muhammedshamil8) <br/>
-  <img src="assets/Folded%20Hands%20Light%20Skin%20Tone.png" width="25"/> [Follow me on GitHub](https://github.com/muhammedshamil8)<br/>
-  <img src="assets/Hot%20Beverage.png" width="25"/> [Buy me a coffee](https://www.buymeacoffee.com/shamilzamil007) (Tired of coding fuel)
+  <!--<img src="assets/Star.png" width="25"/>--> 
+  [Give a star to this project](https://github.com/sharafath07/sharafath07) <br/>
+  <!--<img src="assets/Folded%20Hands%20Light%20Skin%20Tone.png" width="25"/>--> 
+  [Follow me on GitHub](https://github.com/sharafath07)<br/>
+  <!--<img src="assets/Hot%20Beverage.png" width="25"/>-->   
+  [Buy me a coffee](https://www.buymeacoffee.com/shamilzamil007) (Tired of coding fuel)
 
 #### Feel free to reach out if you want to chat about web development, tech trends, or if you're looking for someone to collaborate on projects!.  
 
@@ -113,7 +117,7 @@
 
 <br><br><br>
 
-### Thanks for visiting! <img src="./assets/Partying%20Face.png" width="25">
+### Thanks for visiting! <!--<img src="./assets/Partying%20Face.png" width="25">-->
 
 <br><br>
 
