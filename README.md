@@ -38,7 +38,7 @@
 
 - **[Email](mailto:sharafathahammed112@gmail.com):** sharafathahammed112@gmail,com
 - **[LinkedIn](https://www.linkedin.com):** Sharafath Ahammed V
-- **[Telegram]():** @
+- **[Telegram](https://t.me/SharafathV):** @SharafathV
 - **[Instagram](https://www.instagram.com/sh__ara__fath/):** @sh_ara_fath
 
 <br>
@@ -49,19 +49,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>-->
+  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  <img src="./assets/Tailwind_CSS.png" alt="tailwindcss" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>
+  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>-->
+  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>-->
+  <!--<img src="./assets/Tailwind_CSS.png" alt="tailwindcss" width="40" height="40"/>-->
+  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="40" height="40"/>-->
+  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>-->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+  <!--<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>-->
   <!-- Add more icons for your tools -->
 </p>
 
@@ -92,7 +92,7 @@
 
 ## <!--<img src="./assets/Face%20with%20Tears%20of%20Joy.png" width="35"/>-->  Dev Meme
 
-<!--<p align="center"><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Coding Gif"/></p>-->
+<p align="center"><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Coding Gif"/></p>
 
 <br />
 
@@ -107,9 +107,9 @@
   <!--<img src="assets/Folded%20Hands%20Light%20Skin%20Tone.png" width="25"/>--> 
   [Follow me on GitHub](https://github.com/sharafath07)<br/>
   <!--<img src="assets/Hot%20Beverage.png" width="25"/>-->   
-  [Buy me a coffee](https://www.buymeacoffee.com/shamilzamil007) (Tired of coding fuel)
+  <!--[Buy me a coffee](https://www.buymeacoffee.com/shamilzamil007) (Tired of coding fuel)-->
 
-#### Feel free to reach out if you want to chat about web development, tech trends, or if you're looking for someone to collaborate on projects!.  
+#### Feel free to reach out if you're looking for someone to collaborate on projects!.  
 
 <br>
 
