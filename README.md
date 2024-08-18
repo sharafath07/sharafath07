@@ -1,5 +1,5 @@
 <!--<p align="center"><img src="./assets/webdeveloper.jpg" height="250"></p>-->
-<h1 align="center">Hi <img src="wave.webp" width="50">, I'm Sharafath Ahammed V</h1>
+<h1 align="center">Hi <img src="./assets/wave.webp" width="50">, I'm Sharafath Ahammed V</h1>
 
 ## <img src="./assets/technologist-medium-light-skin-tone.png" width="35"/> About Me
 
@@ -21,7 +21,7 @@
 
 <br/>
 
-## <img src="./assets/badge3.gif" width="30"/> Badges
+## <img src="./assets/badge.gif" width="30"/> Badges
 
 [![An image of @sharafath07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sharafath07)](https://holopin.io/@sharafath07)
 
@@ -69,7 +69,7 @@
 
 <br>
 
-## <img src="./stats.webp" width="35"/> GitHub Stats
+## <img src="./assets/stats.webp" width="35"/> GitHub Stats
 
 <p >
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sharafath07&theme=dark&hide_border=true&include_all_commits=false&count_private=true"><br/>
@@ -77,7 +77,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sharafath07&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact">
 </p>
 
-## <img src="./trophy2.webp" width="35"/> GitHub Trophies
+## <img src="./assets/trophy2.webp" width="35"/> GitHub Trophies
 
 <p >
   <img src="https://github-profile-trophy.vercel.app/?username=sharafath07&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4">
@@ -87,7 +87,7 @@
 
 <br>
 
-## <img src="./writing.webp" width="35"/> Random Dev Quote
+## <img src="./assets/writing.webp" width="35"/> Random Dev Quote
 
 >![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -103,8 +103,8 @@
 
 ## Loved this work? <img src="./assets/red heart.gif" width="30">
 
-  <img src="/star.webp" width="25"/> [Give a star to this project](https://github.com/sharafath07/sharafath07) <br/>
-  <img src="/shake.webp" width="25"/> [Follow me on GitHub](https://github.com/sharafath07)<br/>
+  <img src="./assets/star.webp" width="25"/> [Give a star to this project](https://github.com/sharafath07/sharafath07) <br/>
+  <img src="./assets/shake.webp" width="25"/> [Follow me on GitHub](https://github.com/sharafath07)<br/>
   <!--<img src="assets/Hot%20Beverage.png" width="25"/>-->   
   <!--[Buy me a coffee](https://www.buymeacoffee.com/shamilzamil007) (Tired of coding fuel)-->
 
