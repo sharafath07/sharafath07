@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning React.
 - 📧 How to [reach me: ](mailto:sharafathahammed112@gmail.com)
 - ⚡ Fun fact: I enjoy playing games. I enjoy watching movies
+<br/>
 
 ## 👀 Views and <img src="./assets/followers2.gif" width="25"/>  Followers
 <br />
