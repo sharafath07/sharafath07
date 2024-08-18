@@ -88,7 +88,7 @@
 
 <br>
 
-## <!--<img src="./assets/Writing%20Hand%20Light%20Skin%20Tone.png" width="35"/>--> Random Dev Quote
+## <img src="./assets/writing.gif" width="35"/> Random Dev Quote
 
 >![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -104,7 +104,7 @@
 
 ## Loved this work? <img src="./assets/red heart.gif" width="30">
 
-  <img src="assets/star.gif" width="25"/> [Give a star to this project](https://github.com/sharafath07/sharafath07) <br/>
+  <img src="assets/star.gif" width="20"/> [Give a star to this project](https://github.com/sharafath07/sharafath07) <br/>
   <img src="assets/shake.gif" width="25"/> [Follow me on GitHub](https://github.com/sharafath07)<br/>
   <!--<img src="assets/Hot%20Beverage.png" width="25"/>-->   
   <!--[Buy me a coffee](https://www.buymeacoffee.com/shamilzamil007) (Tired of coding fuel)-->
