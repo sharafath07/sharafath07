@@ -1,9 +1,9 @@
 <!--<p align="center"><img src="./assets/webdeveloper.jpg" height="250"></p>-->
 <h1 align="center">Hi <!--<img src="./assets/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" />-->, I'm Sharafath Ahammed V</h1>
 
-## <!--<img src="./assets/Man%20Technologist%20Light%20Skin%20Tone.png" width="35"/>--> About Me
+## <img src="./assets/technologist-medium-light-skin-tone.png" width="35"/> About Me
 
-<!--<img alt="coding" align="right" width="300" src="./assets/coding.gif"/> -->
+<img alt="coding" align="right" width="300" src="./assets/dev_animado.gif"/>
 
 - 👨‍💻 I’m currently Studing on a school.
 - 🤝 I’m open to collaborate on Open Source Projects.
@@ -11,7 +11,7 @@
 - 📧 How to [reach me: ](mailto:sharafathahammed112@gmail.com)
 - ⚡ Fun fact: I enjoy playing games. I enjoy watching movies
 
-## <!--<img src="./assets/Eyes.png" width="35"/>--> Views and <!--<img src="./assets/Blue%20Heart.png" width="35"/>--> Followers
+## <img src="./assets/watching-eyes.gif" width="35"/> Views and <img src="./assets/followers.png" width="35"/><img src="./assets/followers2.gif" width="35"/>  Followers
 <br />
 <p>
     <img src="https://komarev.com/ghpvc/?username=sharafath07">
@@ -20,11 +20,11 @@
 
 <br />
 
-## <img src="./assets/badge.gif" width="35"/> Badges
+## <img src="./assets/star-badge.gif" width="35"/>🎖️ Badges
 
 [![An image of @sharafath07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sharafath07)](https://holopin.io/@sharafath07)
 
-<!--## <img src="./assets/spinning-globe-animated.gif" width="35"/> Socials
+<!--## <img src="./assets/social.gif" width="35"/> Socials
 
 <p >
   <a href="https://twitter.com/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
@@ -43,7 +43,7 @@
 
 <br>
 
-## <!--<img src="./assets/Rocket.png" width="35"/>--> Languages and Tools
+## <!--<img src="./assets/Rocket.png" width="35"/>-->🚀 Languages and Tools
 
 <p > 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -68,7 +68,8 @@
 
 <br>
 
-## <img src="./assets/graph-animation.gif" width="35"/> GitHub Stats
+## <img src="./assets/stats.gif" width="35"/> GitHub Stats
+## <img src="./assets/stats2.gif" width="35"/> GitHub Stats
 
 <p >
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sharafath07&theme=dark&hide_border=true&include_all_commits=false&count_private=true"><br/>
@@ -76,7 +77,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sharafath07&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact">
 </p>
 
-## <img src="./assets/trophies.gif" width="35"/> GitHub Trophies
+## <img src="./assets/trophy.gif" width="35"/>🏆 GitHub Trophies
 
 <p >
   <img src="https://github-profile-trophy.vercel.app/?username=sharafath07&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4">
@@ -90,7 +91,7 @@
 
 >![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## <!--<img src="./assets/Face%20with%20Tears%20of%20Joy.png" width="35"/>-->  Dev Meme
+## 😂  Dev Meme
 
 <p align="center"><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Coding Gif"/></p>
 
@@ -100,11 +101,11 @@
 
 <br>
 
-## Loved this work? <!--<img src="./assets/Heart%20on%20Fire.png" width="30">-->
+## Loved this work? <img src="./assets/red heart.gif" width="30">
 
-  <!--<img src="assets/Star.png" width="25"/>--> 
+  <img src="assets/Star.gif" width="25"/>
   [Give a star to this project](https://github.com/sharafath07/sharafath07) <br/>
-  <!--<img src="assets/Folded%20Hands%20Light%20Skin%20Tone.png" width="25"/>--> 
+  <img src="assets/shake.gif" width="25"/>
   [Follow me on GitHub](https://github.com/sharafath07)<br/>
   <!--<img src="assets/Hot%20Beverage.png" width="25"/>-->   
   <!--[Buy me a coffee](https://www.buymeacoffee.com/shamilzamil007) (Tired of coding fuel)-->
@@ -117,7 +118,7 @@
 
 <br><br><br>
 
-### Thanks for visiting! <!--<img src="./assets/Partying%20Face.png" width="25">-->
+### Thanks for visiting! 🥰
 
 <br><br>
 
