@@ -3,7 +3,7 @@
 
 ## <img src="./assets/technologist-medium-light-skin-tone.png" width="35"/> About Me
 
-<img alt="coding" align="right" width="300" src="./assets/dev_animado.gif"/>
+<img alt="coding" align="right" width="200" src="./assets/dev_animado.gif"/>
 
 - 👨‍💻 I’m currently Studing on a school.
 - 🤝 I’m open to collaborate on Open Source Projects.
@@ -11,9 +11,9 @@
 - 📧 How to [reach me: ](mailto:sharafathahammed112@gmail.com)
 - ⚡ Fun fact: I enjoy playing games. I enjoy watching movies
 
-## <img src="./assets/watching-eyes.gif" width="35"/> Views and <img src="./assets/followers.png" width="35"/><img src="./assets/followers2.gif" width="35"/>  Followers
+## 👀 Views and <img src="./assets/followers2.gif" width="25"/>  Followers
 <br />
-<p>
+<p>  
     <img src="https://komarev.com/ghpvc/?username=sharafath07">
   <img src="https://img.shields.io/github/followers/sharafath07?label=Followers&style=social" alt="GitHub Badge">
 </p>
