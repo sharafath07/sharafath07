@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/github/followers/sharafath07?label=Followers&style=social" alt="GitHub Badge">
 </p>
 
-<br />
+<br/>
 
 ## <img src="./assets/star-badge.gif" width="35"/>🎖️ Badges
 
@@ -43,7 +43,7 @@
 
 <br>
 
-## <!--<img src="./assets/Rocket.png" width="35"/>-->🚀 Languages and Tools
+## <!--<img src="./assets/Rocket.png" width="35"/>--> Languages and Tools
 
 <p > 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
