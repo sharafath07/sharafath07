@@ -88,7 +88,7 @@
 
 <br>
 
-## <img src="./writing.webp" width="35"/>✍ Random Dev Quote
+## <img src="./writing.webp" width="35"/> Random Dev Quote
 
 >![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
