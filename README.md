@@ -21,7 +21,7 @@
 
 <br/>
 
-## <img src="./assets/badge3.gif" width="30" align="bottom"/> Badges
+## <img src="./assets/badge3.gif" width="30"/> Badges
 
 [![An image of @sharafath07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sharafath07)](https://holopin.io/@sharafath07)
 
