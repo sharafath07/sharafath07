@@ -44,7 +44,7 @@
 
 <br>
 
-## <!--<img src="./assets/Rocket.png" width="35"/>--> Languages and Tools
+##  Languages and Tools
 
 <p > 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -69,8 +69,7 @@
 
 <br>
 
-## <img src="./assets/giphy.webp" width="35"/> GitHub Stats
-## <img src="./assets/stats2.gif" width="35"/> GitHub Stats
+## <img src="./stats.webp" width="35"/> GitHub Stats
 
 <p >
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sharafath07&theme=dark&hide_border=true&include_all_commits=false&count_private=true"><br/>
@@ -105,7 +104,7 @@
 ## Loved this work? <img src="./assets/red heart.gif" width="30">
 
   <img src="/star.webp" width="25"/> [Give a star to this project](https://github.com/sharafath07/sharafath07) <br/>
-  <img src="/giphy(2).webp" width="25"/>🫱🏻‍🫲🏼 [Follow me on GitHub](https://github.com/sharafath07)<br/>
+  <img src="/shake.webp" width="25"/> [Follow me on GitHub](https://github.com/sharafath07)<br/>
   <!--<img src="assets/Hot%20Beverage.png" width="25"/>-->   
   <!--[Buy me a coffee](https://www.buymeacoffee.com/shamilzamil007) (Tired of coding fuel)-->
 
