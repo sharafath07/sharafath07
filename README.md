@@ -105,8 +105,7 @@
 
   <img src="./assets/star.webp" width="25"/> [Give a star to this project](https://github.com/sharafath07/sharafath07) <br/>
   <img src="./assets/shake.webp" width="25"/> [Follow me on GitHub](https://github.com/sharafath07)<br/>
-  <!--<img src="assets/Hot%20Beverage.png" width="25"/>-->   
-  <!--[Buy me a coffee](https://www.buymeacoffee.com/shamilzamil007) (Tired of coding fuel)-->
+  <img src="assets/coffee.gif" width="25"/> [Buy me a coffee](buymeacoffee.com/sharafathat) (Tired of coding fuel)
 
 #### Feel free to reach out if you're looking for someone to collaborate on projects!.  
 
