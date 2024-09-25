@@ -38,9 +38,9 @@
 ## 📫 Get in Touch
 
 - **[Email](mailto:sharafathahammed112@gmail.com):** sharafathahammed112@gmail,com
-- **[LinkedIn](https://www.linkedin.com):** Sharafath Ahammed V
+- **[LinkedIn](https://www.linkedin.com/in/sharafath-ahammed-v-82318929b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlXjQIAdyTf%2BR5INqZGzaww%3D%3D):** Sharafath Ahammed V
 - **[Telegram](https://t.me/SharafathV):** @SharafathV
-- **[Instagram](https://www.instagram.com/sh__ara__fath/):** @sh_ara_fath
+- **[Instagram](https://www.instagram.com/sh__ara__fath/):** @sharafath_v
 
 <br>
 
