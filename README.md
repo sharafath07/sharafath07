@@ -37,10 +37,12 @@
 
 ## 📫 Get in Touch
 
-- **[Email](mailto:sharafathahammed112@gmail.com):** sharafathahammed112@gmail,com
-- **[LinkedIn](https://www.linkedin.com/in/sharafath-ahammed-v-82318929b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlXjQIAdyTf%2BR5INqZGzaww%3D%3D):** Sharafath Ahammed V
-- **[Telegram](https://t.me/SharafathV):** @SharafathV
-- **[Instagram](https://www.instagram.com/sh__ara__fath/):** @sharafath_v
+-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sharafath_v)
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharafathv)
+-  [![Email](https://img.shields.io/badge/Email-%23E4405F.svg?logo=Email&logoColor=white)](mailto:sharafathahammed112@gmail.com)
+-  [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/SharafathV)
+
+
 
 <br>
 
@@ -83,6 +85,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sharafath07&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4">
 </p>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sharafath07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
 
 <br>
@@ -105,7 +110,6 @@
 
   <img src="./assets/star.webp" width="25"/> [Give a star to this project](https://github.com/sharafath07/sharafath07) <br/>
   <img src="./assets/shake.webp" width="25"/> [Follow me on GitHub](https://github.com/sharafath07)<br/>
-  <img src="assets/coffee.gif" width="25"/> [Buy me a coffee](https://buymeacoffee.com/sharafathat) (Tired of coding fuel)
 
 #### Feel free to reach out if you're looking for someone to collaborate on projects!.  
 
@@ -117,6 +121,10 @@
 
 ### Thanks for visiting! 🥰
 
+[![](https://visitcount.itsvg.in/api?id=sharafath07&icon=0&color=1)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/sharafathat) [![GPay](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sharafathahammed112@okhdfcbank) 
 <br><br>
 
 ---
