@@ -5,7 +5,7 @@
 
 <img alt="coding" align="right" width="200" src="./assets/dev_animado.gif"/>
 
-- 👨‍💻 I’m currently Studing on a school.
+- 👨‍💻 I’m currently Studing as B.Voc Software Development Student at Farook College
 - 🤝 I’m open to collaborate on Open Source Projects.
 - 🌱 I’m currently learning React.
 - 📧 How to [reach me: ](mailto:sharafathahammed112@gmail.com)
